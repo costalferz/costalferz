@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is KANATIP PATTARAPORNPONG
+You Can call me " Jay " or " JJ "
 ## Knowledge
 **Programing Language**
  - Python
