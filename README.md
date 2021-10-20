@@ -7,8 +7,10 @@
  - Java
  - JavaScript
 ## Tools
+**FrontEnd**
+ - React.js **(Basic)**
 **Backend**
- - Django Framework (Python) **(Basic)**
+ - Django Framework **(Basic)**
  
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api/wakatime?username=Costalferz&layout=compact&hide=Other&theme=radical alt=rahuldkjain />
