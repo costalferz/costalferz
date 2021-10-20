@@ -6,6 +6,7 @@
  - C
  - Java
  - JavaScript
+ - Git
 ## Tools
 **FrontEnd**
  - React.js **(Basic)**
