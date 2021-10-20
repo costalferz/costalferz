@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+## Knowledge
+**Programing Language**
+ - Python
+ - C
+ - Java
+ - JavaScript
+**Backend**
+ - Django Framework (Python) **(Basic)**
+ 
+<p align="center">
+<img src=https://github-readme-stats.vercel.app/api/wakatime?username=Costalferz&layout=compact&hide=Other&theme=radical alt=rahuldkjain />
+</p> 
+
+<p align="center">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Costalferz&layout=compact&hide=Jupyter%20Notebook&theme=radical&langs_count=10 alt=rahuldkjain />
+</p> 
 <!--
 **costalferz/costalferz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
