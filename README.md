@@ -14,7 +14,18 @@ You can call me " Jay " or " JJ " <br/>
 
 **Backend**
  - Django Framework **(Basic)**
+ - Fastapi **(Basic)**
+ - Express.js **(Basic)**
  
+ **Database**
+ - MySQL
+ - Postgres
+ - MongoDB
+
+ **Visualization**
+ - PowerBI
+ - Matplotlib(Python)
+
 
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Costalferz&layout=compact&hide=Jupyter%20Notebook&theme=radical&langs_count=10 alt=rahuldkjain />
