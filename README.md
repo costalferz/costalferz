@@ -32,7 +32,7 @@ You can call me " Jay " or " JJ " <br/>
 </p>
 
 <p align="center">
-<img src=https://github-readme-stats.vercel.app/api/wakatime?username=Costalferz&layout=compact&hide=Other&theme=radical alt=rahuldkjain />
+<img src=https://github-readme-stats.vercel.app/api/wakatime?username=Costalferz&layout=compact&hide=Jupyter%20Notebook&theme=radical alt=rahuldkjain />
 </p> 
 
 <!--
