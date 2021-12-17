@@ -7,7 +7,7 @@ You can call me " Jay " or " JJ " <br/>
  - C
  - Java
  - JavaScript
- - Git
+ 
 ## Tools
 **FrontEnd**
  - React.js **(Basic)**
