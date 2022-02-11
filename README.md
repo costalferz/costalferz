@@ -4,9 +4,10 @@ You can call me " Jay " or " JJ " <br/>
 ## Knowledge
 **Programing Language**
  - Python
- - C
- - Java
+ - SQL
  - JavaScript
+ - C **(Basic)**
+ - Java **(Basic)**
  
 ## Tools
 **FrontEnd**
