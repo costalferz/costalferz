@@ -3,7 +3,7 @@ My name is KANATIP PATTARAPORNPONG <br/>
 You can call me " Jay " or " JJ " <br/>
 ## Knowledge
 **Programing Language**
- - Python
+ - Python (Intermediate)
  - SQL
  - JavaScript
  - C **(Basic)**
