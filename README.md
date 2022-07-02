@@ -1,6 +1,11 @@
-### Hi there 👋
+## :man_technologist: Hi there 👋
 My name is KANATIP PATTARAPORNPONG <br/>
 You can call me " Jay " or " JJ " <br/>
+- :school: I am a `Senior Student` at Thammasat University
+- :student: I’m currently learning: `Data Science and Innovation`.
+- :nerd_face: Ready to `learning new things`
+
+
 ## Knowledge
 **Programing Language**
  - Python (Intermediate)
