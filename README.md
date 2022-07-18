@@ -15,8 +15,9 @@ You can call me " Jay " or " JJ " <br/>
  - Java **(Basic)**
  
 ## Tools
-**FrontEnd**
+**Front-end**
  - React.js **(Basic)**
+ - Vue.js **(Basic)**
 
 **Backend**
  - Django Framework **(Basic)**
