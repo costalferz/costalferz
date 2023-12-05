@@ -7,7 +7,7 @@
 <h3 align="left">You can call me " Jay " or " JJ " </h3>
 
 ## 💫 About Me:
-<h3 align="left">A 4th-year student from Thailand. passionate about new technology, seeking a Data and ML Internship to gain experience that utilizing my extensive skills in big data, cloud and artificial intelligence.</h3>
+<h3 align="left">A 4th-year student from Thailand. passionate about new technology, seeking a Tech/Data Role to gain experience that utilizing my extensive skills in big data, cloud and artificial intelligence.</h3>
 
 - :school: I am a `Senior Student` at Thammasat University
 - :student: I’m currently learning: `Data Science and Innovation`.
